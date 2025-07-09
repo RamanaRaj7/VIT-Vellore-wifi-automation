@@ -183,8 +183,10 @@ If you prefer a manual approach or want a quick-access button, you can use the m
 <img width="1112" alt="Screenshot 2025-07-10 at 12 48 15 AM" src="https://github.com/user-attachments/assets/51d7d754-768d-4a0c-9c7a-965a2164116a" />
 <img width="1312" alt="Screenshot 2025-07-10 at 12 39 51 AM" src="https://github.com/user-attachments/assets/f809483f-e585-47d9-aae5-008c8054cad0" />
 
-3. Add this shortcut to your Widgets for quick access.  
+3. Add this shortcut to your Dock or Widgets for quick access.  
    This is useful when you want to trigger the login manually with a single tap/click by clicking on the widget.
+<img width="1412" alt="Screenshot 2025-07-10 at 1 13 44 AM" src="https://github.com/user-attachments/assets/ef125cbf-ea41-41ce-b859-0e8db99bcf21" />
+
 <img width="408" alt="Screenshot 2025-07-10 at 12 45 09 AM" src="https://github.com/user-attachments/assets/834cb9d7-4987-481b-b1dd-b19e548370f1" />
 
    https://github.com/user-attachments/assets/ca8d43ee-1add-41bd-a3b3-a5da9e1c1df1
