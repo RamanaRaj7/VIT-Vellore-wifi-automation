@@ -1,6 +1,6 @@
 # VIT-Vellore Wi-Fi Automation for macOS
 
-Easily automate login to VIT Wi-Fi on macOS using [wifiwatcher](https://github.com/RamanaRaj7/wifiwatcher). This guide walks you through installing wifiwatcher, creating a simple auto-login script, and configuring it to execute automatically every time you connect to a VIT Wi-Fi network.
+Easily automate login to VIT Wi-Fi on macOS using [wifiwatcher](https://github.com/RamanaRaj7/wifiwatcher). This guide walks you through installing wifiwatcher, creating a simple auto-login script, and configuring it to execute automatically every time you connect to a VIT Wi-Fi network. I have also included a manual one click login using shortcut for below.
 
 ---
 
@@ -164,4 +164,22 @@ brew uninstall wifiwatcher
 - **Explore More:**  
   For advanced triggers and configuration options, check out the [wifiwatcher](https://github.com/RamanaRaj7/wifiwatcher) repository.
 
+- **Security Warning:**  
+  Your credentials are stored in plain text in the automation script.  
+  **Never share your script or configuration file!**
+
 ---
+
+## Manual Login with Shortcuts (Alternative Method)
+
+If you prefer a manual approach or want a quick-access button, you can use the macOS/iOS Shortcuts app:
+
+1. Add the shortcut using this link:  
+   [VIT Wi-Fi Login Shortcut](https://www.icloud.com/shortcuts/0ccd0016a8ec4404a563e8501b7950c2)
+
+2. After adding, **edit the shortcut** by double clicking on the shortcut added and enter your VIT-wifi login ID and password in the respective fields.
+
+3. Add this shortcut to your Widgets for quick access.  
+   This is useful when you want to trigger the login manually with a single tap/click by clicking on the widget.
+
+
