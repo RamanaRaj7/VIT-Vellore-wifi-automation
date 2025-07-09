@@ -187,7 +187,9 @@ If you prefer a manual approach or want a quick-access button, you can use the m
    This is useful when you want to trigger the login manually with a single tap/click by clicking on the widget.
 <img width="1412" alt="Screenshot 2025-07-10 at 1 13 44 AM" src="https://github.com/user-attachments/assets/ef125cbf-ea41-41ce-b859-0e8db99bcf21" />
 
-<img width="408" alt="Screenshot 2025-07-10 at 12 45 09 AM" src="https://github.com/user-attachments/assets/834cb9d7-4987-481b-b1dd-b19e548370f1" />
+<div align="center">
+  <img width="408" alt="Screenshot 2025-07-10 at 12 45 09 AM" src="https://github.com/user-attachments/assets/834cb9d7-4987-481b-b1dd-b19e548370f1" />
+</div>
 
    https://github.com/user-attachments/assets/ca8d43ee-1add-41bd-a3b3-a5da9e1c1df1
 
