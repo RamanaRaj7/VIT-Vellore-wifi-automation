@@ -64,14 +64,14 @@ Paste this script, then fill in your VIT credentials at the top:
 # =========================
 #   SET YOUR CREDENTIALS
 # =========================
-VIT_ID="YOUR_ID_HERE"
-VIT_PASSWORD="YOUR_PASSWORD_HERE"
+ID="YOUR_ID_HERE"
+PASSWORD="YOUR_PASSWORD_HERE"
 # =========================
 
 echo "Attempting to authenticate..."
 
-response=$(curl -s --data-urlencode "userId=$VIT_ID" \
-                 --data-urlencode "password=$VIT_PASSWORD" \
+response=$(curl -s --data-urlencode "userId=$ID" \
+                 --data-urlencode "password=$PASSWORD" \
                  --data-urlencode "serviceName=ProntoAuthentication" \
                  "http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.msftconnecttest.com/redirect")
 
