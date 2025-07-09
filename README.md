@@ -13,6 +13,18 @@ Easily automate login to VIT Wi-Fi on macOS using [wifiwatcher](https://github.c
 
 ## Installation Steps
 
+### 0. First disable captive portal by running this command 
+
+```bash
+sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.captive.control Active -boolean false
+```
+you can enable it if you want using 
+
+```bash
+sudo defaults delete /Library/Preferences/SystemConfiguration/com.apple.captive.control Active
+```
+now you have to restart the computer to see its effect 
+
 ### 1. Install wifiwatcher
 
 Install wifiwatcher using Homebrew:
