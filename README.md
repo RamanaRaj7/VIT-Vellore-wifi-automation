@@ -2,6 +2,7 @@
 
 Easily automate login to VIT Wi-Fi on macOS using [wifiwatcher](https://github.com/RamanaRaj7/wifiwatcher). This guide walks you through installing wifiwatcher, creating a simple auto-login script, and configuring it to execute automatically every time you connect to a VIT Wi-Fi network. I have also included a `manual one click login using shortcut` at the bottom.
 
+If you have any doubts while implementing this, please create an issue.
 ---
 
 ## Prerequisites
