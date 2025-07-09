@@ -186,6 +186,9 @@ If you prefer a manual approach or want a quick-access button, you can use the m
 3. Add this shortcut to your Widgets for quick access.  
    This is useful when you want to trigger the login manually with a single tap/click by clicking on the widget.
 
+https://github.com/user-attachments/assets/9c751a5b-ad19-42c9-8963-c13d2a2c833c
+
+
    
 
 
