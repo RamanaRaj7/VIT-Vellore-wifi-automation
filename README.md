@@ -177,9 +177,15 @@ If you prefer a manual approach or want a quick-access button, you can use the m
 1. Add the shortcut using this link:  
    [VIT Wi-Fi Login Shortcut](https://www.icloud.com/shortcuts/0ccd0016a8ec4404a563e8501b7950c2)
 
+<img width="532" alt="Screenshot 2025-07-10 at 12 51 12 AM" src="https://github.com/user-attachments/assets/c329366a-8fa0-48cd-a22c-1a5dcd7e61cd" />
+
 2. After adding, **edit the shortcut** by double clicking on the shortcut added and enter your VIT-wifi login ID and password in the respective fields.
+<img width="1112" alt="Screenshot 2025-07-10 at 12 48 15 AM" src="https://github.com/user-attachments/assets/51d7d754-768d-4a0c-9c7a-965a2164116a" />
+<img width="1312" alt="Screenshot 2025-07-10 at 12 39 51 AM" src="https://github.com/user-attachments/assets/f809483f-e585-47d9-aae5-008c8054cad0" />
 
 3. Add this shortcut to your Widgets for quick access.  
    This is useful when you want to trigger the login manually with a single tap/click by clicking on the widget.
+
+   
 
 
