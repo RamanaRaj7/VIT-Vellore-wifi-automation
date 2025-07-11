@@ -195,7 +195,9 @@ If you prefer a manual approach or want a quick-access button, you can use the m
 2. After adding, **edit the shortcut** by double clicking on the shortcut added and enter your VIT-wifi login ID and password in the respective fields.
 <img width="1112" alt="Screenshot 2025-07-10 at 12 48 15 AM" src="https://github.com/user-attachments/assets/51d7d754-768d-4a0c-9c7a-965a2164116a" />
 <img width="1312" height="838" alt="Screenshot 2025-07-10 at 11 06 57 PM" src="https://github.com/user-attachments/assets/47e03a90-0565-4fe7-b778-89aa746c08f6" />
-<img width="432" height="384" alt="Screenshot 2025-07-10 at 11 07 20 PM" src="https://github.com/user-attachments/assets/2d698132-29e2-45ef-8ebf-ab953275e8f7" />
+<div align="center">
+ <img width="432" height="384" alt="Screenshot 2025-07-10 at 11 07 20 PM" src="https://github.com/user-attachments/assets/2d698132-29e2-45ef-8ebf-ab953275e8f7" />
+</div>
 <img width="1312" alt="Screenshot 2025-07-10 at 12 39 51 AM" src="https://github.com/user-attachments/assets/f809483f-e585-47d9-aae5-008c8054cad0" />
 
 
